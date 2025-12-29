@@ -1,5 +1,22 @@
-IoT Pulse Oximeter using ESP8266
+<h1>IoT Pulse Oximeter using ESP8266</h1>
 
-An IoT-based pulse oximeter built with ESP8266 (NodeMCU) and MAX30102 to measure SpO₂, heart rate, and respiration rate from PPG signals.
-Features OLED display, Blynk IoT real-time monitoring, and machine learning–based analysis using Gaussian Process Regression (GPR) with advanced PPG feature extraction.
-Includes Arduino firmware, required libraries, and a Python notebook for PPG ML analysis and validation.
+A low-cost IoT-based pulse oximeter built using ESP8266 (NodeMCU) and MAX30102 sensor to measure heart rate and SpO₂, with real-time display and cloud monitoring.
+
+<h2>Features</h2>
+
+Real-time Heart Rate & SpO₂ measurement
+OLED (SSD1306) display support
+Blynk IoT app integration for remote monitoring
+Signal acquisition using MAX30102 sensor
+
+<h2>Machine Learning</h2>
+
+Includes PPG_ML_ANALYSIS.ipynb for offline PPG signal analysis
+Uses feature extraction & Gaussian Process Regression (GPR)
+Estimates Respiration Rate (RR) and improves SpO₂ accuracy from PPG signals
+
+<h2>Tech Stack</h2>
+
+Hardware: ESP8266, MAX30102, OLED
+Firmware: Arduino (C/C++)
+ML: Python, NumPy, SciPy, Scikit-learn
