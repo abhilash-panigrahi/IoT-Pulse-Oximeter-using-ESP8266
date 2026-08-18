@@ -1,5 +1,7 @@
 ## [Click on me to read the full conference paper](./Conference_Paper.pdf)
 
+## Reliable Wireless Pulse-oximeter using Fine Tuned Gaussian Process Regression Model - An Experimental Prototype
+
 ## Features
 Real-time Heart Rate & SpO₂ measurement  
 OLED (SSD1306) display support  
