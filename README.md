@@ -1,4 +1,4 @@
-## [Read the full conference paper](./Conference_Paper.pdf)
+## [Click on me to read the full conference paper](./Conference_Paper.pdf)
 
 ## Features
 Real-time Heart Rate & SpO₂ measurement  
