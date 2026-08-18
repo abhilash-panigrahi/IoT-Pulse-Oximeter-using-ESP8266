@@ -1,3 +1,5 @@
+[Read](./Conference_Paper.pdf)
+
 ## Features
 Real-time Heart Rate & SpO₂ measurement  
 OLED (SSD1306) display support  
